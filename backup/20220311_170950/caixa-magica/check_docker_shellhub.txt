@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE                     COMMAND        CREATED      STATUS       PORTS     NAMES
+7d31030531b1   shellhubio/agent:v0.7.3   "/bin/agent"   2 days ago   Up 7 hours             shellhub

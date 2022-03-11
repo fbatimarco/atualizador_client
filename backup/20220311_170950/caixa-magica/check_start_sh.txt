@@ -1,0 +1,2 @@
+root       42970   39898  0 18:25 pts/0    00:00:00 grep start.sh
+root       42971   39898  0 18:25 pts/0    00:00:00 tee check_start_sh.txt

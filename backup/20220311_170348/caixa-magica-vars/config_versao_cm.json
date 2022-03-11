@@ -1,0 +1,19 @@
+{
+  "versaoCM": 2,
+  "usoGPSElsys": "S",
+  "urlGPSElsys": "curl -X POST http://192.168.10.254/boafrm/formGetGps -d undefined=",
+  "pins":
+  	{
+	 "gps": "/dev/ttyS0",
+	 "mifare": "/dev/ttyUSB0",
+	 "catraca": 12,
+	 "retorno_catraca": 26,
+	 "botao_G": 20,
+	 "botao_P": 21,
+	 "buzzer": 16,
+	 "sonar_T": 6,
+	 "sonar_E": 19,
+	 "ativa_G": true,
+	 "ativa_P": true
+	}
+}
