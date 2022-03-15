@@ -28,6 +28,7 @@ sleep 2
 
 echo "Descompactando..."
 sudo unzip /home/pi/atualizador_client/zip/caixa-magica-install -d /home/pi/atualizador_client/zip/
+sudo rm -rf /home/pi/atualizador_client/cminstaller*
 sleep 2
 
 echo "Executando atualizador..."
