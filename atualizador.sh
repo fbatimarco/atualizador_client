@@ -32,7 +32,8 @@ sudo rm -rf /home/pi/atualizador_client/cminstaller*
 sleep 2
 
 echo "Executando atualizador..."
-#sudo sh /home/pi/atualizador_client/zip/atualizador.sh
+comando="sudo sh /home/pi/atualizador_client/zip/atualizador_bin_"$versao_processador".sh"
+eval $comando
 echo "Finalizado"
 sleep 2
 
