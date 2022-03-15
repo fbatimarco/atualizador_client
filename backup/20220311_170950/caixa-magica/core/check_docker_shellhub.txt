@@ -1,2 +1,0 @@
-CONTAINER ID        IMAGE                     COMMAND             CREATED             STATUS              PORTS               NAMES
-621e0a90ed75        shellhubio/agent:v0.7.3   "/bin/agent"        32 seconds ago      Up 31 seconds                           shellhub

@@ -1,1 +1,0 @@
-sudo pyconcrete view.pye

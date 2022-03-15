@@ -1,5 +1,0 @@
-{
- "url_shape_predictor": "https://github.com/fbatimarco/caixa-magica-rec-facial/blob/main/share/shape_predictor_5_face_landmarks.dat",
- "url_face_encoder": "https://github.com/fbatimarco/caixa-magica-rec-facial/blob/main/share/dlib_face_recognition_resnet_model_v1.dat",
- "url_haarcascade_frontal": "https://github.com/fbatimarco/caixa-magica-rec-facial/blob/main/haarcascade_frontalface_default.xml"
-}
