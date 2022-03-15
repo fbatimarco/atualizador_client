@@ -4,7 +4,7 @@ versao_processador=$(eval "sudo python3 /home/pi/atualizador_client/pega_versao_
 
 echo "Versao obtida: "$versao_processador
 
-sudo rm -rf /home/pi/atualizador_client/zip
+sudo rm -rf /home/pi/atualizador_client/zip/*
 sudo rm -rf /home/pi/atualizador_client/cminstaller*
 sudo mkdir -p /home/pi/atualizador_client/zip
 sudo rm -rf /home/pi/atualizador_client/zip/atualizador*
